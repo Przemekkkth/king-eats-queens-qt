@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/sprite/grass4.png</file>
+        <file>assets/sprite/grass3.png</file>
+        <file>assets/sprite/grass2.png</file>
+        <file>assets/sprite/grass1.png</file>
+        <file>assets/sprite/queen_l.png</file>
+        <file>assets/sprite/queen_r.png</file>
+        <file>assets/sprite/king_l.png</file>
+        <file>assets/sprite/king_r.png</file>
+        <file>assets/font/freesansbold.ttf</file>
+        <file>assets/music/11._jester_battle.wav</file>
+    </qresource>
+</RCC>
